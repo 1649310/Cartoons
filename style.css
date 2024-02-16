@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    background-color: #e7dfd8;
+    font-family: "Inter", sans-serif;
+}
+
+h1,
+h2,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1119px;
+    margin: 0 auto;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    letter-spacing: 0.03em;
+    color: #101010;
+    padding-bottom: 30px;
+}
+
+span {
+    width: 74px;
+    height: 74px;
+    border-radius: 100px;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 63%;
+    text-align: center;
+    color: #101010;
+}
+
+/* Стилі до секцій  */
+.mickey {
+    padding: 100px 0;
+}
+
+.mickey-container {
+    display: flex;
+    gap: 107px;
+}
+
+.mickey-text {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    display: flex;
+    align-items: center;
+    padding-bottom: 28px;
+
+}
+
+.mickey-text span {
+    background: #b99fea;
+    margin-right: 30px;
+}
+
+.mickey-desc {
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    padding-bottom: 35px;
+}
+
+.mickey-link {
+    border-radius: 8px;
+    padding: 10px 20px;
+    background: #b99fea;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    display: inline-block;
+}
+
+.coco {
+    padding: 112px 0;
+}
+
+.coco-container {
+    display: flex;
+    gap: 139px;
+}
+
+.coco-text {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    margin-bottom: 28px;
+}
+
+.coco-text span {
+    margin-right: 20px;
+    background: #eba789;
+}
+
+.coco-desc {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    margin-bottom: 35px;
+}
+
+.coco-link {
+    background: #eba789;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    display: inline-block;
+}
+
+.vayana {
+    padding: 112px 0;
+}
+
+.vayana-container {
+    display: flex;
+    gap: 113px;
+}
+
+.vayana-text {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    margin-bottom: 28px;
+}
+
+.vayana-text span {
+    margin-right: 21px;
+    background: #96dbc6;
+}
+
+.vayana-desc {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 147%;
+    color: #101010;
+    margin-bottom: 35px;
+}
+
+.vayana-link {
+    background: #96dbc6;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    display: inline-block;
+}
