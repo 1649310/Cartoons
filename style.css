@@ -38,6 +38,9 @@ span {
     line-height: 63%;
     text-align: center;
     color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Стилі до секцій  */
@@ -144,6 +147,8 @@ span {
     line-height: 189%;
     color: #101010;
     margin-bottom: 28px;
+    display: flex;
+    align-items: center;
 }
 
 .vayana-text span {
